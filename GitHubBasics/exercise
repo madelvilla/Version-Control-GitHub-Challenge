@@ -1,1 +1,17 @@
-test
+The terminal is a way to run commands to your computer. Instead of clicking in icons, buttons or using you mouse in general,          
+you simply type "commands" on your terminal. You can create files, open files, version control, etc.
+
+Git is a tool you use to keep track of changes made to your project. Mulitple developers are able to work on the same project.
+You can create repositories create branches, merge changes and revert to previous versions.
+GitHub is a web-based platform and hosting service. You are able to store Git repositories with GitHub.
+
+How to Fork a Repository:
+
+fork button
+copy code <> https
+on terminal type: git clone https....
+cd filename
+git status
+git add file
+git commit -m "file added"
+git push origin
